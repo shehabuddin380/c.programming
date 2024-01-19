@@ -1,0 +1,21 @@
+#include<stdio.h>
+double add(double num1,double num2)
+{
+    double sam=num1+num2;
+
+    return 'sum';
+
+}
+
+
+int main()
+{
+    double a,b,c;
+    a=b=2.5;
+    c=add(a,b);
+    printf("%lf\n",c);
+
+
+
+    getch();
+}

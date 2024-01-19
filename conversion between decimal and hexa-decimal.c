@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{
+    int number;
+
+    printf("Decimal number= ");
+    scanf("%d",&number);
+
+    printf("Hexa_decimal number= %x",number);
+
+
+
+
+    getch();
+}
